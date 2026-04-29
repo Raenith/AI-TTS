@@ -10,6 +10,6 @@ for deep thinking models (using models aira-step-6-xcpu).<br><br>
 
 <b>NB:</b>
 <b>`aira-step-6-xcpu`</b> smartes than <b>`aira-step-6-fcpu`</b>,
-<b>`aira-step-6-fcpu smartes`</b> than <b>`aira-step-6-cpu`</b><br>
+<b>`aira-step-6-fcpu`</b> smartes than <b>`aira-step-6-cpu`</b><br>
 if the models can't create, you must `ollama pull llama3.2:1b`, `ollama pull qwen3:4b`, `ollama pull qwen3:8b`
 
